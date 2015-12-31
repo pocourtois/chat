@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	
-	var parseID = 'vNcJ08FVgb7zbOmQj2XBYP1zx6Bga0LQsqjQ7l7m';
-	var parseRestKey = 'EyAEfjCvqnwPuUOR723r1LdG2bCEeBZp9NbDNDyZ';
+	var parseID = 'xx';
+	var parseRestKey = 'xx';
 
 	getMessages();
 
